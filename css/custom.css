@@ -329,7 +329,7 @@ a:focus{
 }
 
 .navbar-brand img{
-	filter: brightness(0) invert(1);
+	
 	transition: all 0.3s;
 }
 
